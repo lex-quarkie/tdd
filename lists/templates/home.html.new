@@ -1,11 +1,7 @@
-{% load staticfiles %}
-
-<link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}" />
-
 <html>
     <head>
         <title>To-Do lists</title>
-        
+        <link rel="stylesheet" href="style.css">
     </head>
    <body>
     <h1>Your To-Do list</h1>
